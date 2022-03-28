@@ -1,22 +1,27 @@
+<b>Play a bunch of classic retro games!</b>
+
 <table style="background-color:#33475b">
 <tr>
-<th>Name</th>
-<th>Job Title</th> 
-<th>Email address</th>
+<th>Game</th>
+<th>Download</th> 
+<th>Console</th>
 </tr>
 <tr>
-<td>Anna Fitzgerald</td>
-<td>Staff Writer</td>
-<td>example@company.com</td>
+<td>Mario 64</td>
+<td>Link</td>
+<td>N64</td>
 </tr>
 <tr>
-<td>John Smith</td>
-<td>Marketing Manager</td>
-<td>example2@company.com</td>
+<td>Sonic 3</td>
+<td>Link</td>
+<td>N64</td>
 </tr>
 <tr>
-<td>Zendaya Grace</td>
-<td>CEO</td>
-<td>example2@company.com</td>
+<td>LOZ</td>
+<td>Link</td>
+<td>N64</td>
 </tr>
 </table>
+
+
+
